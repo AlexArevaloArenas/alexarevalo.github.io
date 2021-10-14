@@ -2,3 +2,7 @@
 h1 {color:lightblue;}
 #bananero {color:black;}
 .jaime {color:yellow;}
+
+#A em {
+  color: red; 
+  background-color: blue;}
